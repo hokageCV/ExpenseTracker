@@ -1,4 +1,4 @@
-package com.example.soc_macmini_15.musicplayer.Adapter;
+package com.example.soc_macmini_15.musicplayer.Adapter ;
 
 import android.content.Context;
 import android.graphics.Movie;
