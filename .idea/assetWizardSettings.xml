@@ -21,7 +21,7 @@
                             <entry key="clipartAsset">
                               <value>
                                 <PersistentState>
-                                  <option name="values">
+                                  <option  name="values">
                                     <map>
                                       <entry key="url" value="jar:file:/Applications/Android%20Studio.app/Contents/plugins/android/lib/android.jar!/images/material_design_icons/action/ic_favorite_black_24dp.xml" />
                                     </map>
